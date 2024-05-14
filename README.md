@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mary.nazari.1993@gmail.com)
 [![Github](https://img.shields.io/github/followers/maryawwm?label=Follow&style=social)](https://github.com/maryawwm)
 
-- 💻 A passionate Machine Learning Engineer From Iran with 3+ years of experience in designing, developing, and deploying machine learning pipelines.
+- 💻 A passionate Machine Learning Engineer with 3+ years of experience in designing, developing, and deploying machine learning pipelines.
 - 🔭 I’m currently working on developing a robust Persian TTS service.
 - 🌱 I’m currently diving deep into the world of MLOps, learning how to deploy, monitor, and manage machine learning models at scale.
 - 📫 How to reach me: mary.nazari.1993@gmail.com
